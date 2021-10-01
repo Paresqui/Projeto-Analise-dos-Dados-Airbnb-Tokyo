@@ -13,4 +13,10 @@ Neste conjunto de dados, tentaremos visualizar diferentes aspectos das caracter�
 
 Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Pandas Profiling, Numpy, Pandera, Seaborn, Pywaffle, Wordcloud e NLTK
 
+## Etapas Realizadas:
 
+* **- Planejamento:** Definição do problema de negócio, quais perguntas precisarão ser respondidas posteriormente na análise dos dados.
+* **- Importação da base de dados:**  Nessa etapa é onde realizamos a importação da nossa base de dados que será analisada posteriormente.
+* **- Limpeza e Transformação:** Sabemos que nem todos os dados coletados serão úteis, então é nessa etapa que precisaremos limpá-los. Este processo é onde removemos os registros que são nulos, registros duplicados e erros básicos. A limpeza dos dados é obrigatória antes de enviar as informações para análise.
+* **- Análise Exploratória:** Essa é uma das etapas mais importantes, pois é onde vamos analisar cada característica da base de dados e de cada variável.
+* **- Visualização dos Dados:** A visualização dos dados nos ajuda a obter insights valiosos, ajudando a comparar conjuntos de dados e observar relacionamentos. 

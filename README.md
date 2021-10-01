@@ -11,6 +11,6 @@ Neste conjunto de dados, tentaremos visualizar diferentes aspectos das caracter√
 
 ## Bibliotecas utilizadas
 
-Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Numpy, Pandera, Seaborn 
+Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Pandas Profiling, Numpy, Pandera, Seaborn, Pywaffle, Wordcloud e NLTK
 
 

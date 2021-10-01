@@ -9,6 +9,8 @@ Neste projeto, utilizei a linguagem de programação Python e suas principais bi
 Neste conjunto de dados, tentaremos visualizar diferentes aspectos das características dos tipos de anúncios públicados nessa cidade, quais são os preços médios de cada região, quais bairros são mais procurados, bem como os termos mais comentados pelo usuários da plataforma. Atualmente este dataset abrange dados de anúncios da plataforma Airbnb públicados desde o ano de 2016 até o ano de 2021.
 
 
+## Bibliotecas utilizadas
 
+Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Numpy, Pandera, Seaborn 
 
 
